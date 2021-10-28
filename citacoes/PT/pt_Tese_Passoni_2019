@@ -1,0 +1,12 @@
+PASSONI, Patieene A. Deindustrialization and regressive specialization in the Brazilian economy between 2000 and 2014: a critical assessment based on the input-output analysis. Tese (Doutorado em Economia da Indústria e da Tecnologia), Instituto de Economia, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2019. Disponível em: http://objdig.ufrj.br/43/teses/PatieeneAlvesPassoni.pdf
+
+%Sugestão de bibtex (em portugues)
+@phdthesis{passoni2019deindustrialization,
+  title={Deindustrialization and regressive specialization in the brazilia n economy between 2000 and 2014: a critical assessment based on the input-outpu t analysis},
+  author={Patieene Passoni},
+  school={Instituto de Economia, Universidade Federal do Rio de Janeiro, Rio de Janeiro},
+  year={2019},
+  type={Tese (Doutorado em Economia da Indústria e da Tecnologia)},
+  note={Disponível em http://objdig.ufrj.br/43/teses/PatieeneAlvesPassoni.pdf}
+}
+
