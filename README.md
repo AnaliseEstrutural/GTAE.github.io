@@ -2,6 +2,7 @@
 
 Teste e Construção da Página do GTAE, a qual terá (?):
 
+
 -   Download de arquivos e das matrizes que formos gerar, garantindo uma menor dependencia nossa frente a edições no site do GIC. <!--# Num quer dizer que vamos desistir do site do GIC, é só para termos uma maior versatilidade mesmo. -->
 
 -   Links de Eventos Passados e Futuros do Grupo, bem como o material de apoio que formos gerar. Não só a escola de verão.
@@ -16,7 +17,9 @@ Teste e Construção da Página do GTAE, a qual terá (?):
 
 A seguir vai estar indicado um guia para ações envolvendo o site, como mexer na página, como é a estrutura da página, como propagandear eventos do grupo, dar upload em dados para que fiquem disponíveis para dowload.
  
-  
+Link para acessar a página: https://analiseestrutural.github.io/GTAE.github.io/
+
+O arquivo da página está no branch `gh_pages`.
   
 <center> <h2> **Edição da Página** </h2> </center>
 
